@@ -1,2 +1,2 @@
 haloasgd 1234567
-edit fgd
+edit 1234 ok
